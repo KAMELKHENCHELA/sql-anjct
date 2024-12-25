@@ -23,7 +23,6 @@ pip install requests
 إدخال URL:
 
     أدخل رابط صفحة تحتوي على إدخال عرضة للهجوم، مثل:
-
 http://example.com/vulnerable.php?id=
 تحذير:
 
