@@ -22,8 +22,7 @@ pip install requests
     python sql_injection_test.py
 إدخال URL:
 
-    أدخل رابط صفحة تحتوي على إدخال عرضة للهجوم، مثل:
-http://example.com/vulnerable.php?id=
+    أدخل رابط صفحة تحتوي على إدخال عرضة للهجوم، مثل:http://example.com/vulnerable.php?id=
 تحذير:
 
     هذا السكريبت يجب استخدامه فقط لاختبار الأنظمة التي تملكها أو لديك تصريح رسمي باختبارها.
